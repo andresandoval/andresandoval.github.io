@@ -81,4 +81,10 @@
     cd ..
     rm -rf squashfs-root
     ```
-
+    
+10. Update Desktop Database (Optional)
+    ```console
+    update-desktop-database /usr/share/applications
+    # or
+    update-desktop-database
+    ``` 
